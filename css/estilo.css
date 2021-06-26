@@ -1,4 +1,59 @@
 #cuento{
-	background-color: yellow;
+	background: rgba(235,233,249,1);
 	
+}
+
+nav{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+body{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-image: url("https://i.pinimg.com/originals/97/57/93/975793fff4eb682dcc396c2885a13f2f.jpg");
+
+}
+
+
+#menu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#menu li{
+	float: left;
+}
+
+#menu a{
+	color: black;
+	text-decoration: none;
+	display: block;
+	padding: 12px 26px;
+	font-family: "Castoro";
+}
+
+#menu {
+	background: rgba(235,233,249,1);
+	width: 1100px;
+	height: 52px
+}
+
+#menu a:hover {
+	color: rgb(101, 153, 255);
+
+}
+
+#cuento{
+	width: 800px;
+
+}
+
+.parrafo{
+	text-align: justify;
+
 }
