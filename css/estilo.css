@@ -1,6 +1,11 @@
 #cuento{
 	background: rgba(235,233,249,1);
-	
+	width: 700px;	
+	border-style: solid;
+	border-color: black;
+	text-align: left;
+	margin: 10px 105px;
+
 }
 
 nav{
@@ -16,6 +21,9 @@ text-align: center;
 background-image: url("https://i.pinimg.com/originals/97/57/93/975793fff4eb682dcc396c2885a13f2f.jpg");
 
 }
+
+
+
 
 
 #menu ul {
@@ -51,6 +59,17 @@ background-image: url("https://i.pinimg.com/originals/97/57/93/975793fff4eb682dc
 #cuento{
 	width: 800px;
 
+}
+
+#tit{
+    background: rgba(235,233,249,1);
+	color: black;
+	text-align: center;
+	width: 1100px;	
+	margin: 10px auto;
+	font-family: 'Castoro', serif;
+	border-style: solid;
+	border-color: black;
 }
 
 .parrafo{
