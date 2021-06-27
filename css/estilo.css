@@ -5,7 +5,6 @@
 	border-color: black;
 	text-align: left;
 	margin: 10px 105px;
-
 }
 
 nav{
@@ -20,6 +19,11 @@ margin-right: auto;
 text-align: center;
 background-image: url("https://i.pinimg.com/originals/97/57/93/975793fff4eb682dcc396c2885a13f2f.jpg");
 
+}
+
+aside {
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
@@ -76,3 +80,6 @@ background-image: url("https://i.pinimg.com/originals/97/57/93/975793fff4eb682dc
 	text-align: justify;
 
 }
+
+
+
