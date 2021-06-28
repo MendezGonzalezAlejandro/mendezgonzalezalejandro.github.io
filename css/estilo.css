@@ -55,6 +55,22 @@ aside{
 
 }
 
+.image-fondo {
+    background-image: url("../imagenes/fondo.jpg");
+    background-size: cover;
+}
+.cabecera{
+  color: #fff;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 0px 0px 10px;
+}
+
+
+
+
 #sonido{
 
 	margin: 10px auto;
@@ -125,3 +141,4 @@ aside{
 	margin-right: 35px;
 	text-align: justify;
 }
+
