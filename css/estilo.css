@@ -175,3 +175,28 @@ aside{
 	border-color: black;
 	color: rgb(255,255,102);
 }
+
+#aporte0{
+	width: 400px;	
+	margin: 50px;
+	padding: 0px;
+	text-align: justify;
+    background: rgb(255, 0, 0);
+	border-style: solid;
+	border-color: black;
+	color: rgb(255,255,102);
+	float: left;
+}
+
+#aporte1{
+	width: 400px;	
+	margin: 50px;
+	padding: 0px;
+	text-align: justify;
+    background: rgb(255, 0, 0);
+	border-style: solid;
+	border-color: black;
+	color: rgb(255,255,102);
+	float: left;
+
+}
